@@ -1,4 +1,5 @@
 ### Hi there 👋
+![giphy7](https://user-images.githubusercontent.com/32710850/94971304-07e09200-0507-11eb-87fd-b6247aca2988.gif)
 
 <!--
 **3n1k0/3n1k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
