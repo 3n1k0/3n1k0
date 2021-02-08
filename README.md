@@ -1,9 +1,9 @@
 
 <br/>
 <p>Amsterdam-based frontend developer. 👩‍💻 🐈☕</p>
-<br/>
 Pronouns: she/her
-
+<br/>
+<br/>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
 <br/>
