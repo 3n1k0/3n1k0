@@ -1,7 +1,7 @@
 
 <br/>
-<p>Amsterdam-based frontend developer. 👩‍💻 🐈☕</p>
-Pronouns: she/her
+<p>Amsterdam-based developer 👩‍💻 🐈☕</p>
+
 <br/>
 <br/>
 
