@@ -1,6 +1,7 @@
 
 <br/>
-<p>Amsterdam-based developer 👩‍💻 🐈☕</p>
+<p>Hi, I'm Enikő.
+ <br/>I'm a highly driven Amsterdam-based creative specialised in professional photography and software / mobile development.  👩‍💻 🐈☕</p>
 
 <br/>
 <br/>
